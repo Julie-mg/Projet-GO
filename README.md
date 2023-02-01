@@ -1,6 +1,7 @@
 # Projet-GO
 
-1. Introduction: Provide a brief overview of the project, what it does, and what problem it solves.
+1. Introduction: 
+The project Provide a brief overview of the project, what it does, and what problem it solves.
 
 2. Installation: Detail the steps necessary to install the project, including any required dependencies and how to obtain them.
 
