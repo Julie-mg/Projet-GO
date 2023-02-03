@@ -4,7 +4,7 @@ This is a Go (Golang) program that implements a TCP server. The server listens f
 
 ## Requirements
 
-* GO for windows or linux (tested on 'go version go1.19.4 windows/amd64' and 'go version go1.15.9 linux/amd64')
+* GO for windows or linux (tested on `go version go1.19.4 windows/amd64` and `go version go1.15.9 linux/amd64`)
 
 ## Running the Application
 
