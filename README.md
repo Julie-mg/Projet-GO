@@ -8,7 +8,7 @@ This is a Go (Golang) program that implements a TCP server. The server listens f
 
 ## Running the Application
 
-To run the application, install Golang, clone this repository or download them in the same repository on your computer, and use the following commands in two different terminals in the same repository (where the files of this application are saved):
+To run the application, install Golang, clone this repository or download the files in the same repository on your computer, and use the following commands in two different terminals open in the same repository (where the files of this application are saved):
 
 `go run server_dijkstra.go`
 `go run client_dijkstra.go`
